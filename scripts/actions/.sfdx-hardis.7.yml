@@ -1,5 +1,5 @@
 commandsPostDeploy:
-  - id: a6e09365-7d52-4dcc-868b-76ecce0256aa
+  - id: 177285ab-9e0b-4525-8162-21715e390e6f
     label: Load crew capacity reference data
     type: data
     command: ""
@@ -7,7 +7,7 @@ commandsPostDeploy:
       sfdmuProject: HeliosCrewRefData
     runOnlyOnceByOrg: true
     context: process-deployment-only
-  - id: fc1e148b-9e22-49ff-ae5a-1329e2571a14
+  - id: d7916982-6d77-492d-ab9f-caf447f21b09
     label: Schedule the nightly crew capacity recalculation
     type: schedule-batch
     command: ""
@@ -18,7 +18,7 @@ commandsPostDeploy:
     runOnlyOnceByOrg: true
     context: process-deployment-only
 commandsPreDeploy:
-  - id: 29849743-d0ae-420f-8993-501bebed7c81
+  - id: 9333f5d0-76b3-4ca8-865c-9a54215f3a70
     label: Set Email Deliverability to All Email
     type: manual
     command: ""
