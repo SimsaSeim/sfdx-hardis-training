@@ -1,0 +1,9 @@
+commandsPostDeploy:
+  - id: 808637af-bee7-492a-be00-986128201fac
+    label: Lab 2.9 data Deployment Action
+    type: data
+    command: ""
+    parameters:
+      sfdmuProject: HeliosCrewRefData
+    runOnlyOnceByOrg: true
+    context: process-deployment-only
