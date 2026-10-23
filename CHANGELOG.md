@@ -3,10 +3,22 @@
 What changed in the course, for learners and trainers. The course has no versions: each section is
 a day, newest first, and a change goes under the date of the day it is made.
 
+## 2026-10-23
+
+- Guinea Run invites you to send your scores as soon as one would enter the top 5 of a world, of the overall total or of Pipeline Pinball.
+- Pipeline Pinball on a phone: the upper Production floor shows whole, and the messages and buttons fade while the ball passes under them.
+- The Guinea Run Hall of Fame page is no longer in the site menu.
+- The Guinea Run Hall of Fame page fits a phone screen: the avatar, handle and badge of a player share one column, and the boards no longer scroll sideways. Pipeline Pinball now comes right after the total, before the world boards.
+
 ## 2026-10-22
 
+- Guinea Run has a bonus table for those who finish all ten worlds: Pipeline Pinball, a pinball game with a mission per world and its own Hall of Fame board.
+- The Hall of Fame answer on a score issue numbers the worlds from 0, as the game does.
+- Sending your Guinea Run scores works from the GitHub mobile app too: it used to open a blank issue.
 - Guinea Run, the game hidden in every page, is online: the Konami code or five taps on the guinea pig in the footer open it, on a computer or a smartphone.
 - The guinea pig of Guinea Run squeaks with a new, shorter set of wheeks when it jumps.
+- Guinea Run has Easy, Normal and Hard modes: Normal runs 1.5 times faster for 1.5 times the points, Hard twice as fast for twice the points.
+- Guinea Run has a [Hall of Fame](https://sfdx-hardis-training.cloudity.com/hall-of-fame/): send your scores from the game to GitHub, and beat the bosses fast for a speed bonus.
 
 ## 2026-10-21
 
