@@ -1,0 +1,7 @@
+targetUsername: test-pfe6an9kqbqu@example.com
+instanceUrl: https://test.salesforce.com
+mergeTargets:
+  - preprod
+codingAgentAutoFix: false
+packageNoOverwritePath: ""
+skipCodeCoverage: false
