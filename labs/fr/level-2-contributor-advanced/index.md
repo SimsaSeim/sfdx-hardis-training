@@ -4,12 +4,12 @@ description: "Affrontez ce que les vraies livraisons Salesforce vous envoient : 
 id: l2-home
 level: 2
 lang: fr
-source_rev: "7df6b40335d9c8e90986c341ff8949cc9bed3210"
+source_rev: "65cfd8f341bbb6b6f468d9fb227f99f189399907"
 ---
 
 # Niveau 2 - Contributeur Salesforce DevOps avancé
 
-**Durée** : environ 5 h.<!-- observed --> Observé sur les Labs 2.1 à 2.9 : médiane 5 h 55, 14 participants, le plus rapide 1 h 31.<!-- /observed -->
+**Durée** : environ 5 h 30.<!-- observed --> Observé sur les Labs 2.1 à 2.9 : médiane 5 h 55, 20 participants, le plus rapide 1 h 30.<!-- /observed -->
 
 **Prérequis** : le [Niveau 1](../level-1-contributor-basics/index.md). Pas facultatif : chaque lab
 d'ici suppose que la boucle est automatique pour vous.
@@ -39,9 +39,9 @@ jours.
 | [2.4](2-4-ship-reference-data-and-a-batch-with-deployment-actions.md) | Livrer des données de référence et un batch avec des deployment actions | 50 min |
 | [2.5](2-5-pass-code-quality-and-apex-test-coverage.md)                | Passer la barrière de qualité de code et la couverture de tests Apex    | 25 min |
 | [2.6](2-6-permission-sets-and-profiles.md)                            | Permission sets, profils, et pourquoi une autorisation disparaît        | 30 min |
-| [2.7](2-7-resolve-a-git-merge-conflict.md)                            | Résoudre un conflit de merge Git avec un collègue                       | 35 min |
-| [2.8](2-8-recover-from-committing-the-wrong-metadata.md)              | Se remettre d'avoir commité la mauvaise métadonnée                      | 20 min |
-| [2.9](2-9-capstone-deliver-a-user-story-that-has-it-all.md)           | Épreuve finale : livrer une User Story qui a tout                       | 40 min |
+| [2.7](2-7-resolve-a-git-merge-conflict.md)                            | Résoudre un conflit de merge Git avec un collègue                       | 50 min |
+| [2.8](2-8-recover-from-committing-the-wrong-metadata.md)              | Se remettre d'avoir commité la mauvaise métadonnée                      | 25 min |
+| [2.9](2-9-capstone-deliver-a-user-story-that-has-it-all.md)           | Épreuve finale : livrer une User Story qui a tout                       | 45 min |
 
 ## Le menu Training
 
