@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T11:19:04.000Z",
+  "updatedAt": "2026-10-26T23:29:39.000Z",
   "banned": [],
   "players": {
     "nvuillam": {
       "handle": "nvuillam",
       "badge": 3,
       "firstSubmittedAt": "2026-10-22T19:27:29.000Z",
-      "submittedAt": "2026-10-25T11:19:04.000Z",
-      "issue": 301,
+      "submittedAt": "2026-10-26T23:29:39.000Z",
+      "issue": 320,
       "worlds": {
         "0": {
           "score": 16592,
@@ -27,28 +27,28 @@
           "at": "2026-10-23T05:22:10.507Z"
         },
         "2": {
-          "score": 9540,
-          "stars": 3,
-          "bossMs": null,
-          "mode": "easy",
-          "legacy": true,
-          "at": "2026-10-22T19:27:29.000Z"
+          "score": 17984,
+          "stars": 1,
+          "bossMs": 39062,
+          "mode": "hard",
+          "legacy": false,
+          "at": "2026-10-26T11:22:29.233Z"
         },
         "3": {
-          "score": 7394,
-          "stars": 1,
-          "bossMs": 90763,
+          "score": 10294,
+          "stars": 2,
+          "bossMs": 64528,
           "mode": "hard",
           "legacy": false,
-          "at": "2026-10-25T01:05:18.998Z"
+          "at": "2026-10-26T18:06:37.463Z"
         },
         "4": {
-          "score": 32890,
-          "stars": 2,
-          "bossMs": 96390,
+          "score": 34610,
+          "stars": 3,
+          "bossMs": 85867,
           "mode": "hard",
           "legacy": false,
-          "at": "2026-10-23T05:24:25.498Z"
+          "at": "2026-10-26T12:40:06.397Z"
         },
         "5": {
           "score": 8402,
@@ -83,31 +83,31 @@
           "at": "2026-10-22T19:27:29.000Z"
         },
         "9": {
-          "score": 18850,
+          "score": 20870,
           "stars": 2,
-          "bossMs": 39643,
+          "bossMs": 43153,
           "mode": "hard",
           "legacy": false,
-          "at": "2026-10-25T01:08:40.521Z"
+          "at": "2026-10-26T18:08:20.745Z"
         }
       },
-      "total": 133021,
+      "total": 148105,
       "stars": 17,
       "pinball": {
-        "score": 22595600,
-        "ms": 414184,
+        "score": 67385990,
+        "ms": 1058691,
         "level": 1,
-        "missions": 1,
+        "missions": 5,
         "notes": 0,
-        "at": "2026-10-25T10:18:03.263Z"
+        "at": "2026-10-26T17:59:01.662Z"
       }
     },
     "availomani": {
       "handle": "availomani",
       "badge": 3,
       "firstSubmittedAt": "2026-10-24T16:03:39.000Z",
-      "submittedAt": "2026-10-25T09:55:11.000Z",
-      "issue": 300,
+      "submittedAt": "2026-10-25T18:20:23.000Z",
+      "issue": 302,
       "worlds": {
         "0": {
           "score": 18600,
@@ -118,44 +118,44 @@
           "at": "2026-10-25T09:55:02.825Z"
         },
         "1": {
-          "score": 7180,
+          "score": 15890,
           "stars": 2,
-          "bossMs": 3251,
-          "mode": "easy",
+          "bossMs": 4668,
+          "mode": "hard",
           "legacy": false,
-          "at": "2026-10-24T17:43:44.770Z"
+          "at": "2026-10-25T09:55:54.673Z"
         },
         "2": {
-          "score": 8590,
-          "stars": 1,
-          "bossMs": 22988,
-          "mode": "easy",
+          "score": 19584,
+          "stars": 2,
+          "bossMs": 51274,
+          "mode": "hard",
           "legacy": false,
-          "at": "2026-10-24T17:46:11.152Z"
+          "at": "2026-10-25T09:57:29.123Z"
         },
         "3": {
-          "score": 4102,
-          "stars": 1,
-          "bossMs": 24569,
-          "mode": "easy",
+          "score": 14414,
+          "stars": 2,
+          "bossMs": 27238,
+          "mode": "hard",
           "legacy": false,
-          "at": "2026-10-24T17:49:02.508Z"
+          "at": "2026-10-25T09:58:23.859Z"
         },
         "4": {
-          "score": 11539,
+          "score": 25948,
           "stars": 3,
-          "bossMs": 20389,
-          "mode": "easy",
+          "bossMs": 19704,
+          "mode": "hard",
           "legacy": false,
-          "at": "2026-10-24T17:51:39.649Z"
+          "at": "2026-10-25T09:59:39.603Z"
         },
         "5": {
-          "score": 4171,
+          "score": 12506,
           "stars": 2,
-          "bossMs": 27900,
-          "mode": "easy",
+          "bossMs": 28702,
+          "mode": "hard",
           "legacy": false,
-          "at": "2026-10-24T17:53:25.907Z"
+          "at": "2026-10-25T10:00:22.559Z"
         },
         "6": {
           "score": 9183,
@@ -166,12 +166,12 @@
           "at": "2026-10-24T17:56:48.380Z"
         },
         "7": {
-          "score": 6345,
-          "stars": 2,
-          "bossMs": 49057,
-          "mode": "easy",
+          "score": 13370,
+          "stars": 1,
+          "bossMs": 48804,
+          "mode": "hard",
           "legacy": false,
-          "at": "2026-10-24T18:02:59.660Z"
+          "at": "2026-10-25T10:06:30.275Z"
         },
         "8": {
           "score": 5773,
@@ -190,8 +190,8 @@
           "at": "2026-10-24T17:06:31.958Z"
         }
       },
-      "total": 85726,
-      "stars": 18,
+      "total": 145511,
+      "stars": 19,
       "pinball": {
         "score": 3851250,
         "ms": 149713,
